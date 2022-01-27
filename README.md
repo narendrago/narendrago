@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **image processing**
 
-- 🤝 I’m looking to collaborate on **web dev, ML, DL, data science, natural language processing**
+- 🤝 I’m looking to collaborate on **web dev, ML, DL, data science and natural language processing**
 
 - 📫 How to reach me **go.narendra@outlook.com**
 
