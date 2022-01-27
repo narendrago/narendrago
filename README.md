@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Narendra G O</h1>
 <h3 align="center">A passionate Computer Science Engineer</h3>
 
-- 🌱 I’m currently learning **image processing**
+🌱 I’m currently learning **image processing**
 
-- 🤝 I’m looking to collaborate on **web dev, ML, DL, data science and natural language processing**
+🤝 I’m looking to collaborate on **web dev, ML, DL, data science and natural language processing**
 
-- 📫 How to reach me **go.narendra@outlook.com**
+📫 How to reach me **go.narendra@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
