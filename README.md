@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="http://narendrago.xyz/#/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="gonarendra" height="30" width="40"/></a>
+<!-- <a href="http://narendrago.xyz/#/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="gonarendra" height="30" width="40"/></a> -->
 <a href="https://linkedin.com/in/narendra-g-o-614a37188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra-g-o-614a37188" height="30" width="40" /></a>
 </p>
 
