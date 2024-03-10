@@ -3,7 +3,7 @@
 
 <!-- 🌱 I’m currently learning **image processing**.
  -->
-🤝 I’m looking to collaborate on **ML, DL, Data Science, Natural Language Processing and Web Dev**.
+🤝 I’m looking to collaborate on **Backend Dev, Mobile Dev, ML, DL, Data Science, Natural Language Processing**.
 
 🔬 Also interested in research projects.
 
