@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/narendrago" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="narendra-g-o-614a37188"/></a>
+<a href="www.linkedin.com/in/narendrago" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="narendrago"/></a>
 </p>
 
 
