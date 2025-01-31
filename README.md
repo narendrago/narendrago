@@ -9,9 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/narendrago" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="narendrago"/></a>
+<a href="https://linkedin.com/in/narendrago" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="narendrago"/></a>
 </p>
-
 
 <h3 align="left">Language and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=py,cpp,java,flask,fastapi,dotnet,angular,git,mysql,mongodb,azure"/>
